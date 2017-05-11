@@ -1,1 +1,1 @@
-# windows-server2012-app-1
+# windows-server2012-app
